@@ -1,6 +1,6 @@
 # Data Analytics Project
 
-#Project 1
+# Project 1
 
 **Title:** [Superstore sales Data](https://github.com/Darlingtonobus/Github.io-Darlingtonobus/blob/main/SUPERSTORE%20SALES%20(1).xlsx)
 
