@@ -16,6 +16,22 @@
 
 # Project 2
 
+**Title:** [Youtube Subscriber Data](https://github.com/Darlingtonobus/Github.io-Darlingtonobus/blob/main/youtube_subscribers_data.csv)
+
+**Tools Used:** Microsoft Excel, Pivot chart, power query
+
+**Project Description:**
+
+**Key findings:**
+
+**Dashboard Overview:**
+![YOUTUBESUBSCRIBERSCHART.png](YOUTUBESUBSCRIBERSCHART.png)
+
+
+
+
+# Project 3
+
 
 **Title:** Workplace Safety Data Sql Extraction
 
