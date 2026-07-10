@@ -12,3 +12,17 @@
 
 **Dashboard Overview:**
 ![COOKIECOMPANYFINANCIALCHART.png](COOKIECOMPANYFINANCIALCHART.png)
+
+
+# Project 2
+
+
+**Title:**
+
+**SQL Code:**
+
+**SQL Skills Used:**
+
+**Project Description:**
+
+**Technology used: SQL server**
