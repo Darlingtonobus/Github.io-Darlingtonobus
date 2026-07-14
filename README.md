@@ -6,9 +6,24 @@
 
 **Tools Used:** Microsoft Excel, Pivot chart, power query
 
-**Project Description:**
+**Project Description:** This project involved analysing product data of cookies company to identify trends and patterns in sales in  performance for 2020. It is designed to provide a comprehensive overview of key performance metrics. This dashboard allows stakeholders to easily monitor and analyze the company’s performance across different regions, products, and time periods. The dashboard includes the following features:
+
+
 
 **Key findings:**
+Total Revenue by Country: Highlights the total revenue generated in each country, showcasing the performance in different markets.
+Additionally, the dashboard includes interactive slicers and timeline for:
+
+Profit by Country : Visual representation of profits broken down by each country.
+
+ Monthly income revenue: A monthly breakdown of the total revenue providing insights into sales trends over time.
+
+ Total cost by product : Visual representation of total cost  broken down by each product type.
+
+
+
+
+
 
 **Dashboard Overview:**
 ![COOKIECOMPANYFINANCIALCHART%20(2).png](COOKIECOMPANYFINANCIALCHART%20(2).png)
