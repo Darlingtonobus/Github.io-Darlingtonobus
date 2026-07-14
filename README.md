@@ -14,6 +14,7 @@
 ![COOKIECOMPANYFINANCIALCHART.png](COOKIECOMPANYFINANCIALCHART.png)
 
 
+
 # Project 2
 
 **Title:** [Youtube Subscriber Data](https://github.com/Darlingtonobus/Github.io-Darlingtonobus/blob/main/youtube_subscribers_data.csv)
@@ -31,8 +32,6 @@
 
 
 
-
-
 # Project 3
 
 **Title:** [Global Superstore Financial Report 2023](https://github.com/Darlingtonobus/Github.io-Darlingtonobus/blob/main/Global%20Superstore%20Data%202023.xlsx)
@@ -45,9 +44,6 @@
 
 **Dashboard Overview:**
 ![GlobalSuperstoreFinancialReport2023Chart.png](GlobalSuperstoreFinancialReport2023Chart.png)
-
-
-
 
 
 
@@ -75,14 +71,6 @@
 **Project Description:**
 
 **Technology used: SQL server**
-
-
-
-
-
-
-
-
 
 
 
