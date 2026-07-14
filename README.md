@@ -29,7 +29,31 @@
 
 
 
+
+
+
+
 # Project 3
+
+**Title:** [Global Superstore Financial Report 2023](https://github.com/Darlingtonobus/Github.io-Darlingtonobus/blob/main/Global%20Superstore%20Data%202023.xlsx)
+
+**Tools Used:**  Power Query, PowerBi Desktop
+
+**Project Description:**
+
+**Key findings:**
+
+**Dashboard Overview:**
+![GlobalSuperstoreFinancialReport2023Chart.png](GlobalSuperstoreFinancialReport2023Chart.png)
+
+
+
+
+
+
+
+
+# Project 4
 
 
 **Title:** Employee Info  Data Extraction
@@ -65,7 +89,7 @@
 
 
 
-# Project 4
+# Project 5
 
 
 **Title:** Workplace Safety Data Sql Extraction
