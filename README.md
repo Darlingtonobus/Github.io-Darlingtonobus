@@ -21,12 +21,10 @@ Profit by Country : Visual representation of profits broken down by each country
  Total cost by product : Visual representation of total cost  broken down by each product type.
 
 
-
-
-
-
 **Dashboard Overview:**
 ![COOKIECOMPANYFINANCIALCHART%20(2).png](COOKIECOMPANYFINANCIALCHART%20(2).png)
+
+
 
 
 
@@ -46,8 +44,24 @@ Profit by Country : Visual representation of profits broken down by each country
 
 
 
-
 # Project 3
+
+**Title:** [Workplace Safety Data](https://github.com/Darlingtonobus/Github.io-Darlingtonobus/blob/main/Workplace%20Safety%20Data.xlsx)
+
+**Tools Used:**  Power Query, PowerBi Desktop
+
+**Project Description:**
+
+**Key findings:**
+
+**Dashboard Overview:**
+![WorkplaceSafetyData.png](WorkplaceSafetyData.png)
+
+
+
+
+
+# Project 4
 
 **Title:** [Global Superstore Financial Report 2023](https://github.com/Darlingtonobus/Github.io-Darlingtonobus/blob/main/Global%20Superstore%20Data%202023.xlsx)
 
@@ -63,8 +77,7 @@ Profit by Country : Visual representation of profits broken down by each country
 
 
 
-
-# Project 4
+# Project 5
 
 
 **Title:** Employee Info  Data Extraction
@@ -90,9 +103,7 @@ Profit by Country : Visual representation of profits broken down by each country
 
 
 
-
-
-# Project 5
+# Project 6
 
 
 **Title:** Workplace Safety Data Sql Extraction
