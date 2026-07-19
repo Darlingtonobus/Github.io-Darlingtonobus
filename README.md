@@ -32,11 +32,17 @@ Profit by Country : Visual representation of profits broken down by each country
 
 **Title:** [Youtube Subscriber Data](https://github.com/Darlingtonobus/Github.io-Darlingtonobus/blob/main/youtube_subscribers_data.csv)
 
-**Tools Used:** Microsoft Excel, Pivot chart, power query
+**Tools Used:** Microsoft Excel, Pivot chart, power query 
 
-**Project Description:**
+**Project Description:** This project analyzes YouTube channel subscriber data to identify trends in subscriber growth across categories, countries, languages, and brand channels. The data was cleaned using Power Query and transformed into an interactive Excel dashboard to help understand audience distribution and channel performance.
 
-**Key findings:**
+**Key findings:**  Music was the category with the highest number of subscribers.
+         * India and the United States had the largest subscriber base.
+         * English was the dominant language among YouTube channels.
+         * Branded channels accounted for a larger share of total subscribers.
+         * Entertainment and Music consistently attracted the highest audience.
+
+
 
 **Dashboard Overview:**
 ![YOUTUBESUBSCRIBERSCHART.png](YOUTUBESUBSCRIBERSCHART.png)
@@ -48,11 +54,19 @@ Profit by Country : Visual representation of profits broken down by each country
 
 **Title:** [Workplace Safety Data](https://github.com/Darlingtonobus/Github.io-Darlingtonobus/blob/main/Workplace%20Safety%20Data.xlsx)
 
-**Tools Used:**  Power Query, PowerBi Desktop
+**Tools Used:**  Power Query,  Power BI Desktop, DAX, Data Modelling
 
-**Project Description:**
 
-**Key findings:**
+**Project Description:** This project analyzes workplace safety incident data to identify trends, high-risk areas, and factors contributing to workplace incidents. The dashboard provides management with actionable insights into incident costs, lost workdays, departments, plants, and incident types, supporting data-driven decisions to improve workplace safety and reduce operational risks
+
+**Key findings:** *Burn injuries were the most frequent workplace incident.
+* Maintenance and Shipping departments recorded the highest incident costs.
+* Florida reported the highest total incident cost among all plants.
+* Day and night shifts experienced more incidents than afternoon shifts.
+* Male employees accounted for the majority of incident-related costs.
+* Total incident costs exceeded £718K, with 379 lost workdays recorded.
+
+
 
 **Dashboard Overview:**
 ![WorkplaceSafetyData.png](WorkplaceSafetyData.png)
@@ -65,11 +79,16 @@ Profit by Country : Visual representation of profits broken down by each country
 
 **Title:** [Global Superstore Financial Report 2023](https://github.com/Darlingtonobus/Github.io-Darlingtonobus/blob/main/Global%20Superstore%20Data%202023.xlsx)
 
-**Tools Used:**  Power Query, PowerBi Desktop
+**Tools Used:**  Power Query, Power BI Desktop,  DAX, Data Modelling
 
-**Project Description:**
 
-**Key findings:**
+**Project Description:** This project analyzes the financial performance of a global retail business using sales, profit, expenses, and order data. The dashboard provides decision-makers with an interactive view of business performance across customer segments, countries, products, and shipping methods, helping identify profitability trends and opportunities for growth.
+
+**Key findings:** The business generated £12.64M in total sales and £1.47M in profit.
+* Consumer customers contributed the highest share of total sales.
+* Standard Class was the most frequently used shipping method.
+* The United States generated the highest profit among all countries.
+* Sales fluctuated throughout the year, with noticeable peak periods that may reflect seasonal demand.
 
 **Dashboard Overview:**
 ![GlobalSuperstoreFinancialReport2023Chart.png](GlobalSuperstoreFinancialReport2023Chart.png)
